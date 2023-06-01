@@ -1,0 +1,12 @@
+Source: ros-humble-ament-cmake-catch2
+Section: misc
+Priority: optional
+Maintainer: Luca Della Vedova <luca@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-humble-ament-cmake-core, ros-humble-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-humble-ament-cmake-catch2
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-ament-cmake-test, ros-humble-ros-workspace
+Description: Allows integrating catch2 tests in the ament buildsystem with CMake
