@@ -1,3 +1,26 @@
+## ament_cmake_catch2 (rolling) - 1.4.0-1
+
+The packages in the `ament_cmake_catch2` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling ament_cmake_catch2` on `Thu, 08 Jun 2023 08:01:42 -0000`
+
+The `ament_cmake_catch2` package was released.
+
+Version of package(s) in repository `ament_cmake_catch2`:
+
+- upstream repository: https://github.com/open-rmf/ament_cmake_catch2.git
+- release repository: https://github.com/ros2-gbp/ament_cmake_catch2-release.git
+- rosdistro version: `1.2.0-4`
+- old version: `1.2.0-4`
+- new version: `1.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ament_cmake_catch2 (iron) - 1.3.0-1
 
 The packages in the `ament_cmake_catch2` repository were released into the `iron` distro by running `/usr/bin/bloom-release --rosdistro iron ament_cmake_catch2` on `Tue, 06 Jun 2023 08:48:28 -0000`
