@@ -1,0 +1,12 @@
+Source: ros-jazzy-ament-cmake-catch2
+Section: misc
+Priority: optional
+Maintainer: Luca Della Vedova <luca@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ament-cmake-core, ros-jazzy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-ament-cmake-catch2
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python3-ament-cmake-test, ros-jazzy-ros-workspace
+Description: Allows integrating catch2 tests in the ament buildsystem with CMake
